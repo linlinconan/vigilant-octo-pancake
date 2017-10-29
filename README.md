@@ -1,7 +1,5 @@
 # vigilant-octo-pancake
-echo "# vigilant-octo-pancake" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/linlinconan/vigilant-octo-pancake.git
-git push -u origin master
+
+After reading the 'Hello world' that help me to create a project,just test .
+I don't know what should be write in here 
+OK,it is over.
